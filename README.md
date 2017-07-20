@@ -1,7 +1,6 @@
 # Graphical-Game-Multithreaded
 
-This source code is written in C++ using Microsoft Foundation Class Library (MFC), therefore microsoft visual studio
-is required to run the game.
+This source code is written in C++ using Microsoft Foundation Class Library (MFC).
 
 Demo:
 
